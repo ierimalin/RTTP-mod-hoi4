@@ -1,0 +1,16 @@
+﻿l_english:
+ # Mod Sprites #
+ ROM_jet_fighter_equipment_1:0 "Mikoyan-Gurevich MiG-15"
+ ROM_jet_fighter_equipment_1_short:0 "MiG-15"
+ ROM_jet_fighter_equipment_2:0 "Mikoyan-Gurevich MiG-17"
+ ROM_jet_fighter_equipment_2_short:0 "MiG-17"
+ ROM_jet_tac_bomber_equipment_1:0 "Ilyushin Il-28"
+ ROM_jet_tac_bomber_equipment_1_short:0 "Il-28"
+ ROM_jet_tac_bomber_equipment_2:0 "Tupolev Tu-16"
+ ROM_jet_tac_bomber_equipment_2_short:0 "Tu-16"
+ ROM_jet_strat_bomber_equipment_1:0 "Myasishchev M-4"
+ ROM_jet_strat_bomber_equipment_1_short:0 "M-4"
+ ROM_light_tank_destroyer_equipment_3:0 "Maresal"
+ ROM_light_tank_destroyer_equipment_3_short:0 "Maresal"
+ #
+ 

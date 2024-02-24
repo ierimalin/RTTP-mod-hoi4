@@ -1,0 +1,103 @@
+spriteTypes = {	
+
+	
+	SpriteType = {
+	name = "GFX_goal_stop"
+	texturefile = "gfx/interface/goals/goal_stop.dds"			
+	}
+	SpriteType = {
+	name = "GFX_ROM_camasi_verzi"
+	texturefile = "gfx/interface/goals/ROM_camasi_verzi.dds"			
+	}
+	SpriteType = {
+	name = "GFX_ROM_evreything_for_the_country"
+	texturefile = "gfx/interface/goals/ROM_evreything_for_the_country.dds"			
+	}
+	SpriteType = {
+	name = "GFX_ROM_a_man_a_dream_a_country"
+	texturefile = "gfx/interface/goals/ROM_a_man_a_dream_a_country.dds"			
+	}	
+	SpriteType = {
+	name = "GFX_goal_heroine"
+	texturefile = "gfx/interface/goals/goal_heroine.dds"			
+	}
+    SpriteType = {
+	name = "GFX_goal_fanaticism"
+	texturefile = "gfx/interface/goals/goal_fanatcism.dds"			
+	}
+	
+    SpriteType = {
+	name = "GFX_goal_Garda_de_Fier"
+	texturefile = "gfx/interface/goals/goal_Garda_de_Fier.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_goal_PCR"
+	texturefile = "gfx/interface/goals/goal_PCR.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_goal_RomaniaFirst"
+	texturefile = "gfx/interface/goals/goal_RomaniaFirst.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_ROM_agrarianism"
+	texturefile = "gfx/interface/goals/ROM_agrarianism.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_ROM_develop_ploesti_oil_fields"
+	texturefile = "gfx/interface/goals/ROM_develop_ploesti_oil_fields.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_develop_the_heavy_industry"
+	texturefile = "gfx/interface/goals/ROM_develop_the_heavy_industry.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_europenism"
+	texturefile = "gfx/interface/goals/ROM_europenism.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_foreign_loans"
+	texturefile = "gfx/interface/goals/ROM_foreign_loans.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_ortodoxism"
+	texturefile = "gfx/interface/goals/ROM_ortodoxism.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_politica_portilor_deschise"
+	texturefile = "gfx/interface/goals/ROM_politica_portilor_deschise.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_revive_economy"
+	texturefile = "gfx/interface/goals/ROM_revive_economy.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_romanian_research_institute"
+	texturefile = "gfx/interface/goals/ROM_romanian_research_institute.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_status_quo"
+	texturefile = "gfx/interface/goals/ROM_status_quo.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ROM_traditionalism"
+	texturefile = "gfx/interface/goals/ROM_traditionalism.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_focus_generic_self_management"
+	texturefile = "gfx/interface/goals/focus_generic_self_management.dds"			
+	}	
+}
