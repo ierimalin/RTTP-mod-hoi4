@@ -1,0 +1,10 @@
+difficulty_settings = {
+	difficulty_setting = {
+		key = "stregthen_Romania"
+		modifier = diff_strong_ai_generic
+		countries = { ROM }
+		multiplier = 2.0
+	}
+}
+
+

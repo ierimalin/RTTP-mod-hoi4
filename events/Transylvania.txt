@@ -1,0 +1,36 @@
+﻿###########################
+# Transylvanian Events
+###########################
+
+add_namespace = transylvania
+
+
+###########################
+#####   TRANSYLVANIA  #####
+###########################
+
+	country_event = {
+
+		id = transylvania.1
+		title = "transylvania.1.t"
+		desc = "transylvania.1.d"
+		picture = GFX_country_event_intoarcerea_armelor_1
+		fire_only_once = yes												
+		trigger = { 
+		tag = TRA 
+		has_war = no
+		}
+		
+		mean_time_to_happen = {
+			days = 1
+		}
+		
+		option = {  name = transylvania.1.a
+			if = {
+				limit = {
+					is_in_faction_with = SOV
+				}
+			SOV = { remove_from_faction = TRA }
+			}	
+		}
+	}
